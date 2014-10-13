@@ -4,9 +4,9 @@
  * Date: 5/2/13
  * Time: 17:56
  */
-namespace RobertoTru\ToInlineStyleEmailBundle\Twig;
+namespace JoshTaylor\ToInlineStyleEmailBundle\Twig;
 
-use RobertoTru\ToInlineStyleEmailBundle\Converter\ToInlineStyleEmailConverter;
+use JoshTaylor\ToInlineStyleEmailBundle\Converter\ToInlineStyleEmailConverter;
 use Symfony\Bundle\FrameworkBundle\Templating\Loader\TemplateLocator;
 use Symfony\Bundle\FrameworkBundle\Templating\TemplateNameParser;
 use Symfony\Component\Config\FileLocatorInterface;

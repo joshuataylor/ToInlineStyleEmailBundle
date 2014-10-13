@@ -5,8 +5,8 @@
     xsi:schemaLocation="http://symfony.com/schema/dic/services http://symfony.com/schema/dic/services/services-1.0.xsd">
 
     <parameters>
-        <parameter key="css_to_inline_email_converter.class">RobertoTru\ToInlineStyleEmailBundle\Converter\ToInlineStyleEmailConverter</parameter>
-        <parameter key="css_to_inline_email_twig_extension.class">RobertoTru\ToInlineStyleEmailBundle\Twig\InlineCssExtension</parameter>
+        <parameter key="css_to_inline_email_converter.class">JoshTaylor\ToInlineStyleEmailBundle\Converter\ToInlineStyleEmailConverter</parameter>
+        <parameter key="css_to_inline_email_twig_extension.class">JoshTaylor\ToInlineStyleEmailBundle\Twig\InlineCssExtension</parameter>
     </parameters>
 
     <services>

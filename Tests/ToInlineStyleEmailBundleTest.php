@@ -1,6 +1,6 @@
 <?php
 
-namespace RobertoTru\ToInlineStyleEmailBundle\Tests;
+namespace JoshTaylor\ToInlineStyleEmailBundle\Tests;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 

@@ -1,9 +1,9 @@
 <?php
 
-namespace RobertoTru\ToInlineStyleEmailBundle;
+namespace JoshTaylor\ToInlineStyleEmailBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class RobertoTruToInlineStyleEmailBundle extends Bundle
+class JoshTaylorToInlineStyleEmailBundle extends Bundle
 {
 }

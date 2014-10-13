@@ -4,7 +4,7 @@
  * Date: 5/2/13
  * Time: 17:18
  */
-namespace RobertoTru\ToInlineStyleEmailBundle\Twig;
+namespace JoshTaylor\ToInlineStyleEmailBundle\Twig;
 
 use Symfony\Bundle\FrameworkBundle\Templating\Loader\TemplateLocator;
 use Symfony\Bundle\FrameworkBundle\Templating\TemplateNameParser;

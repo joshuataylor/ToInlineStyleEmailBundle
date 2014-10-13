@@ -11,7 +11,7 @@
  * file that was distributed with this source code.
  */
 
-namespace RobertoTru\ToInlineStyleEmailBundle\Converter;
+namespace JoshTaylor\ToInlineStyleEmailBundle\Converter;
 
 use Symfony\Component\DependencyInjection\ContainerInterface;
 use Symfony\Component\Templating\EngineInterface;

@@ -2,7 +2,7 @@ ToInlineStyleEmailBundle
 ========================
 
 **ToInlineStyleEmailBundle** is a _Symfony2_ bundle to use the **CssToInlineStyles** translator by _Tijs Verkoyen_ (see
-https://github.com/tijsverkoyen/CssToInlineStyles for the repository)
+https://github.com/tijsverkoyen/CssToInlineStyles for the original repository)
 
 
 Requirements
@@ -24,7 +24,7 @@ The following lines should be added in your ```composer.json```
 Then, register the bundle in your AppKernel by adding the following line:
 
 ``` php
-new RobertoTru\ToInlineStyleEmailBundle\RobertoTruToInlineStyleEmailBundle(),
+new JoshTaylor\ToInlineStyleEmailBundle\JoshTaylorToInlineStyleEmailBundle(),
 ```
 
 Documentation and Examples
@@ -97,4 +97,6 @@ Feel free to contribute to improve this bundle.
 
 About the author of the bundle
 ===========
-**ToInlineStyleEmailBundle** has been originally developed and is mantained by Roberto Trunfio (see more on the author at www.trunfio.it)
+**ToInlineStyleEmailBundle** has been originally developed and is maintained by Roberto Trunfio (see more on the author at www.trunfio.it)
+
+This unofficial branch is maintained by Josh Taylor until fixes are pushed upstream by the original author.
